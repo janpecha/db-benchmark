@@ -9,4 +9,4 @@ Usage:
 - load dump employees.sql
 - update db user & password in run-*.php script.
 - run `composer update` for each library
-- run `testall` or reach library individually `php run-employees.php`
+- run `testall` or each library individually `php run-employees.php`
